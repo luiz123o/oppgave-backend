@@ -183,7 +183,7 @@ Logo após crie uma database dentro da imagem do postgres com o nome taskmanager
 
 ## Criando as tabelas
 ```
-yarn sequelize db:migrate
+
 ```
 
 ## Execução de Projeto para Desenvolvimento no Node.js
